@@ -1,0 +1,47 @@
+.form {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.input {
+  height: 3.375rem;
+  width: 46rem;
+  background: var(--gray-500);
+  border: 0;
+  border-radius: 8px;
+  font-size: 1rem;
+  padding-left: 0.875rem;
+  margin-top: calc(0px - 1.5rem - 3px);
+  border: 1px solid var(--gray-700);
+  color: #fff;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  height: 3.375rem;
+  width: 5.625rem;
+  background-color: var(--BlueDark-);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  margin-top: calc(0px - 1.5rem - 3px);
+  cursor: pointer;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  gap: 34rem;
+  padding-top: 5rem;
+}
+
+.header p {
+  color: var(--Blue-);
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.content {
+  padding-top: 2rem;
+}
+
+.line {
+  border-top: 2px solid var(--gray-500);
+  border-radius: 8px;
+  margin: 0 auto;
+  max-width: 830px;
+  padding-top: 2rem;
+}
+
+.component {
+  background: var(--gray-500);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 4.5rem;
+  border-radius: 8px;
+  margin-top: 10px;
+}

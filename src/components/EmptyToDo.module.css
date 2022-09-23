@@ -1,0 +1,20 @@
+.firstText {
+  color: var(--gray-300);
+  font-weight: 700;
+}
+
+.secondText {
+  color: var(--gray-300);
+  font-weight: 400;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+  align-items: center;
+}
+
+.content img {
+  width: 5rem;
+}
