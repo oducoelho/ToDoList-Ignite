@@ -1,21 +1,64 @@
-.content {
-  padding-top: 2rem;
-}
-
-.line {
-  border-top: 2px solid var(--gray-500);
-  border-radius: 8px;
-  margin: 0 auto;
-  max-width: 830px;
-  padding-top: 2rem;
-}
-
-.component {
+.task {
+  width: 800px;
   background: var(--gray-500);
+  border: 1px solid var(--gray-400);
+  padding: 1rem;
+  border-radius: 0.5rem;
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  height: 4.5rem;
-  border-radius: 8px;
-  margin-top: 10px;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 15px;
+}
+
+.teste {
+  display: flex;
+  justify-content: center;
+}
+
+.task p {
+  font-size: 0.875rem;
+  line-height: 1.18rem;
+  color: var(--gray-100);
+  margin-right: auto;
+}
+
+p.textCompleted {
+  color: var(--gray-300);
+  text-decoration: line-through;
+}
+
+.checkContainer {
+  width: 1.125rem;
+  height: 1.125rem;
+  background: none;
+  border: none;
+}
+
+.checkContainer div {
+  width: 100%;
+  height: 100%;
+  border-radius: 999px;
+  border: 2px solid var(--Blue-);
+}
+
+.checkContainer svg {
+  width: 100%;
+  height: 100%;
+  color: var(--Purple-);
+}
+
+.deleteButton {
+  background: none;
+  border: none;
+  color: var(--gray-300);
+}
+
+.trash {
+  transition: 0.2s;
+}
+
+.trash:hover {
+  color: var(--Danger-);
+  cursor: pointer;
 }
