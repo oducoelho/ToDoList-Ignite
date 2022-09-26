@@ -2,11 +2,11 @@
 
 ## Landing Page
 <hr />
-<img src="screenshot.jpg" />
+<img src="screenshot1.png" />
 
 ## Splash Screen
 <hr />
-<img src="screenshot2.jpg" 
+<img src="screenshot2.png" 
 
  
 ## :memo: Descrição
