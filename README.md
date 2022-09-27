@@ -2,7 +2,6 @@
 <hr />
 <img src="screenshot1.PNG" />
 
-## Splash Screen
 <hr />
 <img src="screenshot2.PNG" 
 
