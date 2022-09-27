@@ -1,6 +1,4 @@
-<h1 align="center">NLW eSports Trilha Ignite</h1>
-
-## Landing Page
+<h1 align="center">To Do List Ignite</h1>
 <hr />
 <img src="screenshot1.PNG" />
 
