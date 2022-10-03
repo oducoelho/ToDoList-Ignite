@@ -19,7 +19,7 @@
 * React-Icons
      
 ## :rocket: Rodando o projeto
-Realize o download dos arquivos e execute o comando "npm i" para baixar a node modules dos projetos
+Realize o download dos arquivos e execute o comando "npm i" para baixar a node modules do projeto
 
 ## :handshake: Colaboradores
 <table>
